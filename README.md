@@ -1,1 +1,1 @@
-##simple calculator built with react hook  to perform basic operations
+## Basic calculator built with react hook  to perform basic operations
